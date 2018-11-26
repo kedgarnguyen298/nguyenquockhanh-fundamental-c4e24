@@ -1,0 +1,23 @@
+#Khánh
+
+1. How to check variables's type?
+
+    -> Using interactive mode.
+    For example:
+        >>> type("My name is Khanh")
+        <type, str>
+        >>> type(23)
+        <type, int>
+        >>> type(23,4)
+        <type, float>
+
+2.  In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names?
+    Can you give 3 different examples of invalid names?
+
+    ->
+    _ Name doesn't begin with a letter
+            Example: 4gr = "Group 4"
+    _ Containing illegal characters
+            Example: Money$ = "Money in dollars"
+    _ Using Python keywords's as a variables's name:
+            Example: class = "Alo alo alo"

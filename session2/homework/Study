@@ -1,0 +1,25 @@
+Ex1: 
+    _ Boolean is a type of value which result is either True or False. It's a basis of all modern computer logic.
+    _ Three expressions that results a boolean type:
+        6 > 5
+            >>> True
+        m = "Kha"
+        m + "nh" = "Khanh"
+            >>> True
+        5%2 != 0
+            >>> False 
+
+Ex2:
+    _ A flowchart is a type of diagram that represents an algorithm, workflow or process.
+
+Ex3:
+    _ Nested condition consist of multiple condition statements
+    _ Example:
+        if age > 10: 
+            if age <20:
+                print("Teenager")
+            else:
+                print("Adult")
+        else:
+            print("Kids")
+    
