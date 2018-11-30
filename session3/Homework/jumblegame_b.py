@@ -19,6 +19,16 @@ shuffle(word, random = None)
 
 print(*word)
 
+while True:
+    ans = input("Your answer: ")
+    if ans == word_str:
+        print("Hura")
+        break
+    else:
+        print("Try again :(")
+
+
+
 
 
 
