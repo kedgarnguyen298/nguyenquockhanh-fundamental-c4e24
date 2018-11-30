@@ -1,11 +1,11 @@
 # Make color :D
-# print("The game is: Guess words")
-# print("-------------------------")
-# print("Rule: You must guess a word which having mixed character")
-# print("Don't worrry! You will be suggested by all of characters in that word")
-# print("-------------------------")
-# print("Let's get started !")
-# print("--------------------------")
+print("The game is: Guess words")
+print("-------------------------")
+print("Rule: You must guess a word which having mixed character")
+print("Don't worrry! You will be suggested by all of characters in that word")
+print("-------------------------")
+print("Let's get started !")
+print("--------------------------")
 
 # Start coding:
 from random import *
