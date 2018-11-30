@@ -25,7 +25,7 @@ while True:
         print("Hura")
         break
     else:
-        print("Try again :(")
+        print("Try again :( ")
 
 
 
